@@ -1,6 +1,6 @@
 enum Currency {
     USD(f64),
-    INR(f64),
+    INR(f64)
 }
 
 impl Currency {

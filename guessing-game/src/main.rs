@@ -8,7 +8,7 @@ fn main() {
     println!("\nWelcome to the Guessing game!!\n");
     println!("> Please enter your input between 1-10.");
 
-    loop {
+    loop {  
         // take the input
         let mut user_input = String::new();
         io::stdin()
